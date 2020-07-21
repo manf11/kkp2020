@@ -1,0 +1,30 @@
+ h1:hover {
+  color: #FF8C00;
+}
+.nav-link:hover{
+ color: #F8F8FF!important;	 
+}
+
+.nav-item:hover{
+ background-color:#FF8C00!important;
+}
+
+<style type="text/css">
+    .container {
+        margin-top: 30px;
+    }
+    .dropdown-toggle,
+    .dropdown-menu {
+        border-radius: 0px !important;
+    }
+    .dropdown-item:hover {
+        color: white;
+        background-color: #dc3545;
+    }
+    .btn-danger {
+        width: 55%;
+    }
+    .dropdown:hover>.dropdown-menu {
+      display: block;
+    }
+</style>
